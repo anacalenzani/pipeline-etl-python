@@ -1,6 +1,8 @@
 # pipeline-etl-python
 Repositório para entrega de projeto de Pipeline ETL com Python, que faz parte do Santander Bootcamp 2023 - Ciência de Dados com Python. 
 
+O código foi construído em um Notebook do Google Colab, e pode ser testado junto do arquivo gastos-viagem.csv :)
+
 ## Entendendo o Desafio
 Inspirado pelo projeto modelo, o aluno pode replicar ou reimaginar uma pipeline ETL utilizando Python.
 
